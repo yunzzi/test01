@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "homepage": "https://github.com/yunzzi/test01",
+  "authors": [
+    "zzy <429406938@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
